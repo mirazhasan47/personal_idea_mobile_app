@@ -30,7 +30,7 @@ class CustomDrawer extends StatelessWidget {
                 ),
                 SizedBox(height: 10),
                 Text(
-                  "বিবাহ বন্ধন",
+                  "বিবাহ বন্ধন Welcome",
                   style: TextStyle(
                     color: Colors.white,
                     fontSize: 24,
